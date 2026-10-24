@@ -14,6 +14,7 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 | [Swing Models](Swing_Models.ipynb) | Developed cSwing+ and dSwing+ models to evaluate hitter swing decisions. |
 | [Batted Ball Predictability Model](Batted_Ball_Predictability.ipynb) | Analyzed how pitch and swing data shape exit velocity and launch angle. |
 | [Stonehill Fall Ball Dashboard](Fall_Ball_Dashboard.py) | Created a Streamlit dashboard to organize and display player performance data for coaches. |
+| [MLB Respected+ Model](Respected_Plus.py) | Created a Respected+ model using statcast data with context adjusted zone avoidance and year to year validation |
 
 ## Scouting and Player Evaluation
 
