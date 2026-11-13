@@ -12,6 +12,7 @@ My work focuses on combining data, video, and traditional baseball evaluation to
 | [CCBL Stuff+ Model](https://github.com/bdrisc/ccbl-stuff-plus) | Built and validated a location neutral pitch 1uality model using CCBL TrackMan data. |
 | [Location+ Model](Location%2B_v2.ipynb) | Created a model designed to quantify pitch location quality and effectiveness. |
 | [Swing Models](Swing_Models.ipynb) | Developed cSwing+ and dSwing+ models to evaluate hitter swing decisions. |
+| [Decision+](Decision_Plus.ipynb) | Estimated the run value of MLB hitters’ swing and take decisions relative to league swing behavior and built a full-season 2026 leaderboard. |
 | [Batted Ball Predictability Model](Batted_Ball_Predictability.ipynb) | Analyzed how pitch and swing data shape exit velocity and launch angle. |
 | [Stonehill Fall Ball Dashboard](Fall_Ball_Dashboard.py) | Created a Streamlit dashboard to organize and display player performance data for coaches. |
 | [MLB Respected+ Model](Respected_Plus.py) | Created a Respected+ model using statcast data with context adjusted zone avoidance and year to year validation |
